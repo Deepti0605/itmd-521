@@ -5,6 +5,8 @@ ME:
 ![alt text](https://github.com/Deepti0605/itmd-521/blob/master/Images/book.JPG "Sketching")
 
 What I Love
-## I am from India
-## I love Painting and sketching.
-## I have a three year work ex in Capgemini. I love trekking and exploring new places and culture.
+## I am from Chandrapur also know as Black gold city, Maharashtra, India.
+## I major IT interest include Business analyst and have been trained in SQL.
+## I have three year of work experience in Capgemini India pvt ltd. I love trekking, Sketching and painting.
+
+![alt text](https://github.com/Deepti0605/itmd-521/blob/master/Images/Gitit.JPG "GitIt Completion")
